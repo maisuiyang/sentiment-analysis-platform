@@ -2,7 +2,7 @@
 
 A full-stack web application for analyzing movie review sentiment using AI. Built with React, Cloudflare Workers, and machine learning.
 
-[![Deploy](https://github.com/yourusername/sentiment-analysis-platform/actions/workflows/deploy.yml/badge.svg)](https://github.com/yourusername/sentiment-analysis-platform/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/maisuiyang/sentiment-analysis-platform/actions/workflows/deploy.yml/badge.svg)](https://github.com/maisuiyang/sentiment-analysis-platform/actions/workflows/deploy.yml)
 
 ## 🎯 Features
 
